@@ -1,0 +1,7 @@
+{"level":"ERROR","time":"2023-12-13 22:09:45","msg":"dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2023-12-13 22:10:52","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-13 22:11:47","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-13 22:12:05","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-13 22:12:11","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-13 22:29:29","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-13 23:01:49","msg":"Stop Server Success"}

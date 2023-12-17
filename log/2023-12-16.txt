@@ -1,0 +1,80 @@
+{"level":"INFO","time":"2023-12-16 16:42:20","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 16:42:48","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 16:42:51","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 16:52:13","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 16:52:19","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:00:41","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 17:00:45","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:08:06","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 17:09:23","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:11:24","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:11:44","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:13:15","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 17:13:15","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 17:15:39","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:15:56","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 17:15:56","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 17:16:22","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:16:28","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 17:16:28","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 17:17:36","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:18:50","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 17:18:50","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 17:29:31","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 17:29:35","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 17:31:01","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 17:42:20","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 18:21:12","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 18:21:17","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 19:03:23","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 19:03:30","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 19:19:35","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 19:19:38","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 19:20:25","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 19:20:28","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 19:21:27","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 19:22:11","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 19:23:43","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 19:23:48","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 19:25:40","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 19:25:43","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 20:10:14","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 20:10:21","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 20:10:59","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 22:18:46","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:38:03","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 22:38:18","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:40:17","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 22:40:20","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:41:39","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 22:41:42","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:46:16","msg":"Stop Server Success"}
+{"level":"INFO","time":"2023-12-16 22:46:26","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:46:56","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:47:10","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:47:39","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:48:23","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:49:33","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:49:56","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:51:22","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 22:51:22","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 22:51:43","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:52:11","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:52:18","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:53:16","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:55:10","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:57:37","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 22:58:58","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 22:58:58","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 22:59:16","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 23:02:12","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 23:02:12","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 23:02:32","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 23:02:52","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 23:04:39","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 23:08:51","msg":"Star listen:8088"}
+{"level":"ERROR","time":"2023-12-16 23:08:51","msg":"Star Server Error:listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2023-12-16 23:09:38","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 23:11:42","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 23:11:50","msg":"Star listen:8088"}
+{"level":"INFO","time":"2023-12-16 23:12:41","msg":"Stop Server Success"}

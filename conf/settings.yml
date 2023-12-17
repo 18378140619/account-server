@@ -1,0 +1,23 @@
+mode:
+   develop: true
+
+server:
+   port: 8088
+
+log:
+   MaxSize: 1      # megabytes 日志文件最大尺寸（M）
+   MaxBackups: 10  #保留旧文件的最大个数
+   MaxAge: 90      # days 保留旧文件的最大参数
+
+db:
+   dns: root:lmy313920521.@tcp(127.0.0.1:3306)/go?charset=utf8&parseTime=True&loc=Local
+   maxIdleConn: 10 #最多空闲连接数
+   maxOpenConn: 10 #最多打开连接数
+
+redis:
+   url: localhost:6379
+
+jwt:
+   tokenExpires: 30  # token有效时间
+   sign_key: hello jwt
+
